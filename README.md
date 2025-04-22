@@ -16,7 +16,7 @@
 <p align='center'>
 </p>
 
-> **Current Bot Version ➜ `2.0.0 ⚡`**
+> **Current Bot Version ➜ `3.1.0⚡`**
 ---
 
 ```
@@ -75,7 +75,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 
 > **1️⃣Pair Code (Session ID)**
 
-<a href='https://tinyurl.com/subzero-md' target="_blank">
+<a href='https://subzero-md.koyeb.app/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -108,7 +108,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://talkdrove.com/share-bot/66' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
   
 <details>
   
